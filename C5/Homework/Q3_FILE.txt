@@ -1,0 +1,2 @@
+child pid: 43965	 fd: 1
+parent pid: 43964	 fd: 1

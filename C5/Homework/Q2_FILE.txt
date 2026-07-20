@@ -1,0 +1,2 @@
+parent pid: 40129	 fd: 1
+child pid: 40130	 fd: 1
