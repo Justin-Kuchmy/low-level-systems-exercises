@@ -40,6 +40,7 @@ int main(int argc, char *argv[]) //number of args and list of args
 
       
         result = getenv(name); //look up key (SHELL) to get the value (/bin/bash)
+        //int setenv(const char *name, const char *value, int overwrite); //also useful to add
         printf("%s=%s\n", name, result);  //results the same way   puts(*ep) would have it 
     }
     exit(EXIT_SUCCESS);
